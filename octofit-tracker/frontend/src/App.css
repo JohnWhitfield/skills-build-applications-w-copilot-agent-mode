@@ -1,0 +1,10 @@
+.App {
+  min-height: 100vh;
+  background-color: #f8f9fa;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
